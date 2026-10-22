@@ -4,7 +4,7 @@
 
 Je crée des sites vitrines, des boutiques en ligne avec paiement **Orange Money / MTN MoMo**, et des applications de gestion scolaire qui fonctionnent **même hors ligne**.
 
-🌐 **Portfolio :** [dideroh.github.io](https://dideroh.vercel.app)  
+🌐 **Portfolio :** [dideroh.vercel.app](https://dideroh.vercel.app)  
 💬 **WhatsApp :** [+237 694 78 71 67](https://wa.me/237694787167)  
 📧 **E-mail :** diderohdurel@gmail.com
 
