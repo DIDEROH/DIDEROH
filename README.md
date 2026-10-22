@@ -16,8 +16,8 @@ Je crée des sites vitrines, des boutiques en ligne avec paiement **Orange Money
 |---|---|---|
 | **École Saint Aloys** | Site officiel d'une école primaire et maternelle catholique privée | [ecole-st-aloys.com](https://ecole-st-aloys.com) |
 | **EduNote** | Gestion scolaire : élèves, notes et bulletins, utilisable hors ligne | [edunote-est.vercel.app](https://edunote-est.vercel.app) |
-| **DUGESCOOL** | Plateforme complète de gestion d'école, impression des bulletins, mode hors ligne | Dépôt GitHub |
-| **DURINFO** | Ma marque et mon site de services web | Dépôt GitHub |
+| **DUGESCOOL** | Plateforme complète de gestion d'école, impression des bulletins, mode hors ligne | [dugescool.vercel.app](https://dugescool.vercel.app) |
+| **DURINFO** | Ma marque et mon site de services web | [durinfo.com](https://durinfo.com) |
 
 ### 🛠️ Technologies
 
